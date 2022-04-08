@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-YouTube channel : https://www.youtube.com/c/LetsbecomeTechie2002
-https://img.shields.io/youtube/channel/subscribers/UCWv7ReTyh1KOf-Ws5ctYCRg?style=social
+YouTube channel : https://www.youtube.com/c/LetsbecomeTechie2002 
+<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCWv7ReTyh1KOf-Ws5ctYCRg?style=social">
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letsbecometechie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
