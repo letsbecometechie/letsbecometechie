@@ -11,7 +11,9 @@ I mainly code in JavaScript, Java. I know React, Angular JS so many other modern
 * GitHub stats:  
 [![Narmada's GitHub stats](https://github-readme-stats.vercel.app/api?username=letsbecometechie)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letsbecometechie&layout=compact)]()
+* Language stats:
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letsbecometechie&layout=compact)]()
 
 
 <details>
@@ -47,10 +49,6 @@ development, it is in my opinion the best combination of logical programming and
 
 ## Find me web
 
-YouTube channel : https://www.youtube.com/c/LetsbecomeTechie2002 
-<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCWv7ReTyh1KOf-Ws5ctYCRg?style=social">
-
-
-
+https://linktr.ee/narmadamuralikrishnan
 
 </details>
