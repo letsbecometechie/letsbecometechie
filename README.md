@@ -11,6 +11,8 @@ I mainly code in JavaScript, Java. I know React, Angular JS so many other modern
 * GitHub stats:  
 [![Narmada's GitHub stats](https://github-readme-stats.vercel.app/api?username=letsbecometechie)]()
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letsbecometechie&layout=compact)]()
+
 
 <details>
 <summary>
@@ -49,6 +51,6 @@ YouTube channel : https://www.youtube.com/c/LetsbecomeTechie2002
 <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCWv7ReTyh1KOf-Ws5ctYCRg?style=social">
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letsbecometechie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </details>
